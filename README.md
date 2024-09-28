@@ -3,7 +3,7 @@
 ## [Relevamiento visual 🏡](https://mat30gg.github.io/rel_vis/)
 
 > [!IMPORTANT]
-> > Disponible en Android
+> Disponible en Android
 
 <details>
   <summary>Sobre la app</summary> 
