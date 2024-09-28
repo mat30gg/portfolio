@@ -12,5 +12,6 @@
   - ⭐ Marcar como favorito posteos de otros usuarios.
   - 📊 Ver estadisticas de las publicaciones.
 </details>
+
 > [!IMPORTANT]
 > Disponible en Android
