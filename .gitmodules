@@ -1,8 +1,0 @@
-[submodule "Chat"]
-	path = Chat
-	url = https://github.com/mat30gg/PruebaAppPPS01
-	branch = chat-aula
-[submodule "Building_review"]
-	path = Building_review
-	url = https://github.com/mat30gg/PruebaAppPPS01
-	branch = relevamiento-visual
