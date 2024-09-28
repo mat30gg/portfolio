@@ -2,6 +2,9 @@
 
 ## [Relevamiento visual 🏡](https://mat30gg.github.io/rel_vis/)
 
+> [!IMPORTANT]
+> > Disponible en Android
+
 <details>
   <summary>Sobre la app</summary> 
   
@@ -11,8 +14,5 @@
   - 📸 Tomar fotos del edificio y realizar un comentario de este.
   - ⭐ Marcar como favorito posteos de otros usuarios.
   - 📊 Ver estadisticas de las publicaciones.
-
-  > [!IMPORTANT]
-  > Disponible en Android
 
 </details>
