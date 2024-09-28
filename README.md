@@ -2,7 +2,7 @@
 
 ## [Relevamiento visual 🏡](https://mat30gg.github.io/rel_vis/)
 
-> [!IMPORTANT]
+> [!NOTE]
 > Disponible en Android
 
 <details>
