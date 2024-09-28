@@ -1,7 +1,7 @@
 # Mateo Geminiani's portfolio
 
 <details>
-  ## [Relevamiento visual 🏡](https://mat30gg.github.io/rel_vis/)
+  <summary>## [Relevamiento visual 🏡](https://mat30gg.github.io/rel_vis/)</summary> 
   
   Realiza comentarios y sugerencias sobre el edificio con esta app!
   
