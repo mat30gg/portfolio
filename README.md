@@ -11,7 +11,7 @@
   - 📸 Tomar fotos del edificio y realizar un comentario de este.
   - ⭐ Marcar como favorito posteos de otros usuarios.
   - 📊 Ver estadisticas de las publicaciones.
-</details>
 
-> [!IMPORTANT]
-> Disponible en Android
+  > [!IMPORTANT]
+  > Disponible en Android
+</details>
