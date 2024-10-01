@@ -1,6 +1,6 @@
 # Mateo Geminiani's portfolio
 
-## [Relevamiento visual 🏡](/)
+## [Relevamiento visual 🏡](https://mat30gg.github.io/rel_vis/)
 
 > [!NOTE]
 > Disponible en Android
